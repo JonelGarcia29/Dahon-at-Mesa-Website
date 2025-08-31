@@ -23,13 +23,13 @@ The About page of Daho at Mesa shares the story behind the restaurant, highlight
 
 # Menu
 he Menu page of Dahon at Mesa showcases a carefully curated selection of dishes, including appetizers, main courses, and desserts, allowing visitors to explore flavors and plan their perfect meal.
-![screenshot](Photo/About.png)
+![screenshot](Photo/Menu.png)
 
 ---
 
-# Menu
+# Contact
 The Contact page of Dahon at Mesa provides all the details visitors need to get in touch, including the restaurant’s location, phone number, social medias, and a convenient contact form for inquiries or reservations.”
-![screenshot](Photo/About.png)
+![screenshot](Photo/Contact.png)
 
 ---
 
